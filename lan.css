@@ -1,0 +1,28 @@
+header{
+    flex-direction: column;
+    overflow: hidden;
+}
+
+
+.content{
+   flex-direction: column;
+   
+}
+
+.content .textbox{
+   margin-top: 70px;
+   overflow: hidden;
+    
+}
+.aboutus{
+   flex-direction: column;
+   
+}
+.aboutus .box{
+           
+   overflow: hidden;
+}
+
+#contact-box form{
+   width: 70%;
+}
